@@ -16,7 +16,7 @@
 Проект представляет собой одностраничное веб-приложение с навигацией между разделами.
 
 ## Ссылка на веб-версию
-[task_4.9](https://iginov.ru/tasks/task_4.9/)
+[PHP Dev Portfolio](https://iginov.ru/portfolio/php-dev-portfolio/)
 
 ## Лицензия
 MIT License
